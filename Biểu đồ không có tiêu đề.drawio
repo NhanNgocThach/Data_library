@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-05T07:22:08.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="4d_m4R8lS7fN7DJ0FyA4" version="20.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-05T07:24:31.094Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="5PcPjoVgyVGQsqj11D9T" version="20.5.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2431" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -55,9 +55,6 @@
         <mxCell id="h2YvXNAWj-AWCQ-xVeDG-24" value="Đọc giả" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry y="420" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h2YvXNAWj-AWCQ-xVeDG-25" value="Mã đọc giả" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="290" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="h2YvXNAWj-AWCQ-xVeDG-26" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Tên đọc giả&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-120" y="370" width="100" height="40" as="geometry" />
         </mxCell>
@@ -85,10 +82,10 @@
             <mxPoint x="520" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h2YvXNAWj-AWCQ-xVeDG-32" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="h2YvXNAWj-AWCQ-xVeDG-24" target="h2YvXNAWj-AWCQ-xVeDG-25">
+        <mxCell id="h2YvXNAWj-AWCQ-xVeDG-32" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.602;entryY=0.974;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h2YvXNAWj-AWCQ-xVeDG-24" target="h2YvXNAWj-AWCQ-xVeDG-79">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="670" as="sourcePoint" />
-            <mxPoint x="530" y="670" as="targetPoint" />
+            <mxPoint x="21.51028179941568" y="329.4628401335576" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h2YvXNAWj-AWCQ-xVeDG-33" value="Thể loại" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -97,7 +94,7 @@
         <mxCell id="h2YvXNAWj-AWCQ-xVeDG-34" value="Tên thể loại" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="919" y="140" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h2YvXNAWj-AWCQ-xVeDG-40" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="h2YvXNAWj-AWCQ-xVeDG-33">
+        <mxCell id="h2YvXNAWj-AWCQ-xVeDG-40" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="h2YvXNAWj-AWCQ-xVeDG-33" target="h2YvXNAWj-AWCQ-xVeDG-78">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="950" y="420" as="sourcePoint" />
             <mxPoint x="870.6192560174718" y="128.59956236327253" as="targetPoint" />
@@ -137,7 +134,7 @@
           <mxGeometry x="550" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h2YvXNAWj-AWCQ-xVeDG-69" value="Mượn" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="190" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h2YvXNAWj-AWCQ-xVeDG-70" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="h2YvXNAWj-AWCQ-xVeDG-67" target="h2YvXNAWj-AWCQ-xVeDG-15">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -157,20 +154,32 @@
             <mxPoint x="420" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h2YvXNAWj-AWCQ-xVeDG-73" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Attribute&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="320" y="390" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="h2YvXNAWj-AWCQ-xVeDG-74" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Attribute&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="320" y="390" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="h2YvXNAWj-AWCQ-xVeDG-75" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Attribute&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="320" y="390" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="h2YvXNAWj-AWCQ-xVeDG-76" value="Tên Tác giả" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
           <mxGeometry x="-90" y="30" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h2YvXNAWj-AWCQ-xVeDG-78" value="Mã thể loại" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
           <mxGeometry x="819" y="60" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h2YvXNAWj-AWCQ-xVeDG-79" value="Tên đọc giả" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="290" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h2YvXNAWj-AWCQ-xVeDG-80" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Ngày trả&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="325" y="450" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h2YvXNAWj-AWCQ-xVeDG-83" value="Mã mượn trả" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="220" y="470" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h2YvXNAWj-AWCQ-xVeDG-89" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.443;exitY=1.022;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="h2YvXNAWj-AWCQ-xVeDG-69" target="h2YvXNAWj-AWCQ-xVeDG-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="410" as="sourcePoint" />
+            <mxPoint x="450" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h2YvXNAWj-AWCQ-xVeDG-91" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h2YvXNAWj-AWCQ-xVeDG-69" target="h2YvXNAWj-AWCQ-xVeDG-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="410" as="sourcePoint" />
+            <mxPoint x="450" y="410" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
