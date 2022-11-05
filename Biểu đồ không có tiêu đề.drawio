@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-05T07:15:44.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Hu2xlz7gycJ5XXAFFPHt" version="20.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-05T07:16:50.006Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="eGHWT0OD58r3OgRDZ5Xh" version="20.5.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2431" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -106,29 +106,11 @@
         <mxCell id="h2YvXNAWj-AWCQ-xVeDG-33" value="Thể loại" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="740" y="210" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h2YvXNAWj-AWCQ-xVeDG-34" value="website" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="h2YvXNAWj-AWCQ-xVeDG-34" value="Tên thể loại" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="919" y="140" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h2YvXNAWj-AWCQ-xVeDG-35" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Tên tác giả&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="h2YvXNAWj-AWCQ-xVeDG-35" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Mã thể loại&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="839" y="90" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="h2YvXNAWj-AWCQ-xVeDG-36" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Mã tác giả&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="859" y="350" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="h2YvXNAWj-AWCQ-xVeDG-37" value="ghi chú" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="939" y="240" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="h2YvXNAWj-AWCQ-xVeDG-38" value="" style="endArrow=none;html=1;rounded=0;entryX=0.85;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h2YvXNAWj-AWCQ-xVeDG-36" target="h2YvXNAWj-AWCQ-xVeDG-33">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="179.5" as="sourcePoint" />
-            <mxPoint x="850" y="179.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="h2YvXNAWj-AWCQ-xVeDG-39" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="h2YvXNAWj-AWCQ-xVeDG-37">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="810" y="210" as="sourcePoint" />
-            <mxPoint x="1025" y="260" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="h2YvXNAWj-AWCQ-xVeDG-40" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="h2YvXNAWj-AWCQ-xVeDG-33" target="h2YvXNAWj-AWCQ-xVeDG-35">
           <mxGeometry relative="1" as="geometry">
